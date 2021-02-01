@@ -70,8 +70,7 @@
 	
 ## Task Day-1
 	- Create a repository on your GitHub account 
-	- Create a folder, name it as Version Control on your desktop, Download the Workflow of Version Control pdf material [Workflow of Version Control](https://drive.google.com/file/d/1loZPt9fCPaqMkBzxFSVhjU8ihweo45nu/view), move it to the Version Control folder 
+	- Create a folder, name it as Version Control on your desktop, Download the Workflow of Version Control pdf material in below link , move it to the Version Control folder 
 	- Move that Version Control materia into your Github repository
 
-
-
+## [Workflow of Version Control](https://drive.google.com/file/d/1loZPt9fCPaqMkBzxFSVhjU8ihweo45nu/view)
