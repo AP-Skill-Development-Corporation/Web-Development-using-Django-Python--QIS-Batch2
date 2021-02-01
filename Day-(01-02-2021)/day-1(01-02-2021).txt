@@ -1,0 +1,41 @@
+Web Development using Django-Python 6 days-Workshop
+
+Day-1:
+
+-->intro
+-->Registrations
+-->git&git hub
+engineering.apssdc.in/register
+
+
+
+outcomes:
+
+-->git and github version control system
+-->python knowledge
+-->object orineted programming(oops's)
+-->packages and modules
+-->django framework
+	-->html
+	-->css
+	-->boostrap
+	-->sql
+	-->ORM
+	-->mysql Conetions
+	-->mail sending
+	-->notifications
+	-->how to store excel data into database
+	-->server deployment
+
+
+-->shorturl.at/lwWX6
+
+
+
+
+
+
+
+
+
+
