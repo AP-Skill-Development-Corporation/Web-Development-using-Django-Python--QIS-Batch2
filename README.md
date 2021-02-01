@@ -6,7 +6,7 @@
  - Agenda:
    - intro about program
    - Registrations
-    - [click here to register](http://engineering.apssdc.in/)
+    - [click here to register](http://engineering.apssdc.in/register)
  ## outcomes:
  - ->git and github version control system
  - ->python knowledge
@@ -24,8 +24,7 @@
 	    - ->how to store excel data into database
 	    - ->server deployment
 
-
-
+#### [Click here to download git-bash software](https://git-scm.com/download/win)
 ## linux Commands
 	-Pwd
 	- Ls
