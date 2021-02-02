@@ -73,3 +73,26 @@
 	- Move that Version Control materia into your Github repository
 
 #### [Workflow of Version Control](https://drive.google.com/file/d/1loZPt9fCPaqMkBzxFSVhjU8ihweo45nu/view)
+
+
+## Day-2
+
+- Basics of python
+	- Variables
+	- Data types
+	- input functionality
+	- conditions 
+	- loops
+	- Data Structures
+		- list
+		- tuples
+		- Dictionaries
+	- Strings
+	- Funtions
+	- opp's
+		- class 
+		- object 
+		- construcure
+		- inheritance
+		- packages
+		- modules
