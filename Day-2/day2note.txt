@@ -1,0 +1,31 @@
+Today agenda:
+	1).python basics
+		->variables
+		->how to pass input values
+			->static
+			->dynamic
+		->loops
+			for i in range(start,end):
+				statements
+
+		->data strucures
+			->list
+				->like a array
+				->colletion of all datatypes
+					[10,"apssdc,14.7,'c']
+				-->it is mutable(it does chage anything)
+				-->type is list symbol is []
+				-->store your values separated by ,
+				-->we have no of in build fuctions
+				ex:append(),insert(),delete() ect
+			->tuples
+			->dictinaries
+		->strings
+		->funtions
+		->object orinted programming(oop)
+
+
+win+r
+
+
+	
